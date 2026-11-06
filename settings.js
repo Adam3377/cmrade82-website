@@ -2,7 +2,7 @@
 // The only file you edit. Change what's between the quotes, save, refresh.
 window.SITE_SETTINGS = {
   // Turn on the Bachs "Buy now" button (true) once your Bachs key is added in Cloudflare
-  bachs: false,
+  bachs: true,
 
   whatsapp: "2349032168490",
 
