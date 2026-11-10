@@ -11,13 +11,13 @@ window.SITE_SETTINGS = {
   sheetId: "PASTE-YOUR-SHEET-ID-HERE",
 
   // Link to your Google Business Profile (open it in Google Maps, tap Share, copy link)
-  googleMapsLink: "",
+  googleMapsLink: "https://maps.app.goo.gl/pAtfFK5Ftnvtz9aJA",
 
   // Social media. Leave url empty ("") to hide a platform.
   socials: {
-    instagram: { label: "Instagram", url: "" },
-    tiktok:    { label: "TikTok",    url: "" },
-    youtube:   { label: "YouTube",   url: "" },
-    x:         { label: "X",         url: "" }
+    instagram: { label: "Instagram", url: "https://www.instagram.com/cmrade82/" },
+    tiktok:    { label: "TikTok",    url: "https://www.tiktok.com/@cmrade82?is_from_webapp=1&sender_device=pc" },
+    youtube:   { label: "YouTube",   url: "UCO4RG0gxcCHV6wC8FW1p3Xg" },
+    x:         { label: "X",         url: "https://x.com/cmrade82" }
   }
 };
