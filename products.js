@@ -39,7 +39,7 @@ globalThis.PRODUCTS = [
  {
        name: "Selling me",
        category: "3D Printed Models",
-       price: "100",
+       price: "1000",
        photo: "images/WIN_20260206_01_25_43_Pro.jpg",
        description: "Im Selling myself lol",
        paystack: ""
