@@ -37,11 +37,11 @@ globalThis.PRODUCTS = [
   },
    
  {
-       name: "Test item",
+       name: "Selling me",
        category: "3D Printed Models",
-       price: "1000",
-       photo: "",
-       description: "Test - please ignore",
+       price: "100",
+       photo: "images/WIN_20260206_01_25_43_Pro.jpg",
+       description: "Im Selling myself lol",
        paystack: ""
      },     
 ];
