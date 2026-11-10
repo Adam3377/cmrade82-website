@@ -35,13 +35,14 @@ globalThis.PRODUCTS = [
     description: "3D printed cyberpunk-style katana in blue and black with a curved blade and detailed mechanical hilt. Great for display, cosplay and gifts. Ask on WhatsApp for other colours.",
     paystack: ""
   },
-
-];
-     {
+   
+ {
        name: "Test item",
        category: "3D Printed Models",
-       price: "200",
+       price: "1000",
        photo: "",
        description: "Test - please ignore",
        paystack: ""
-     },
+     },     
+];
+   
